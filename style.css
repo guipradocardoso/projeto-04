@@ -78,6 +78,8 @@ ul li {
 }
 
 ul li span {
+  text-align: center;
+  min-width: 4.7rem;
   font-weight: 800;
   font-size: 7.2rem;
   line-height: 8rem;
